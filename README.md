@@ -1,1 +1,1 @@
-# kodluyoruz-html-odev2
+# Kodluyoruz HTML dersinin 2. ödevi
